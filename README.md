@@ -58,7 +58,6 @@
 
 * Objective: Become proficient in using Python libraries that are essential for data analysis and visualization.
 
-
 ```
 • Numpy
 • Pandas
