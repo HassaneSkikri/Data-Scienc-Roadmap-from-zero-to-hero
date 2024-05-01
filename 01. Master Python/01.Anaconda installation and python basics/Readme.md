@@ -33,3 +33,5 @@ Anaconda is a free and open-source distribution of Python and R programming lang
 • Floating Values
 • Typecasting
 ```
+
+#### to view all the function and variable unused you can install Vulture
