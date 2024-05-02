@@ -1,6 +1,8 @@
 # Complete Data Science Roadmap
 
-        Welcome to the repository that will guide you step-by-step on your journey to becoming an expert data scientist. Each step includes the estimated time required for completion, so you can plan your learning path effectively. Let's dive in (:
+        Welcome to the repository that will guide you step-by-step on your journey to becoming an
+        expert data scientist. Each step includes the estimated time required for completion, so
+        you can plan your learning path effectively. Let's dive in (:
 
 <hr>
 <hr>
@@ -121,11 +123,35 @@ Statistic and probability is the most important concept in data science. It is u
         - Normal distribution
         - Uniform distribution
         - Exponential distribution
-        - T-distribution
+        - T-distribution 
     - Discrete distribution
         - Binomial distribution
         - Poisson distribution
         - Bernoulli distribution
         - Discrete uniform distribution
 
+```
+
+# Step 3: Learn SQL
+```
+1. What is database (DB)? 
+2. What is database management system (DBMS)? 
+3. What is type of database? 
+4. What is relational database? 
+5. What is NoSQL database? 
+6. Relational database vs NoSQL database? 
+7. What is SQL? 
+8. The popular open source relational database? 
+9. The popular open source NoSQL database? 
+10. Primary key vs foreign key? 
+11. What is a query? 
+12. What is a database schema? 
+13. SQL DataTypes
+14. SQL in practice
+    - Basic SQL concepts
+    - Advance SQL
+    - Aggregate Functions
+    - Joins in SQL
+    - Miscellaneous SQL and DBMS Concepts
+15. NOSQL in practice
 ```
