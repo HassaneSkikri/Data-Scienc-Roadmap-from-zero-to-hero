@@ -20,6 +20,8 @@
     - Joins in SQL
     - Miscellaneous SQL and DBMS Concepts
 15. NoSQL in practice
+16.What is a MongoDB driver
+
 ```
 ## 1.What is database (DB)?
 ```
@@ -334,3 +336,12 @@ SQL data types are used to define the type of data that can be stored in a colum
     Advanced SQL functions include analytical functions like RANK(), DENSE_RANK(), and ROW_NUMBER(), which are used to perform complex analytics and data ordering within SQL queries.
     ```
 
+## what is a MongoDB driver
+
+``` 
+A MongoDB driver is a set of libraries that allow you to interact with the MongoDB database using a specific programming language.
+ The driver provides an interface to connect to the database, execute queries, and retrieve data. There are drivers available for 
+ various programming languages such as Python, Java, Node.js, and C#.
+```
+
+``` to 
